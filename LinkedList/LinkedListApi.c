@@ -5,6 +5,7 @@
 #include "LinkedListApi.h"
 #include <assert.h>
 #include "../mld.h"
+#include "../mld.c"
 
 static object_db_t *object_db;
 
